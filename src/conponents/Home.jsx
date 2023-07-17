@@ -21,6 +21,7 @@ const handleonchange=()=>{
   return (
     <div  >
         <div className="container">
+          <h2 className='text-white text-center'>My Calculator</h2>
             <div className="row justify-content-center">
                 <div className="col-sm-5 bg my-5">
                 <div class="input-group mb-3 my-5 ">
